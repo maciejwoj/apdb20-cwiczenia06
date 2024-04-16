@@ -17,8 +17,10 @@ public class AnimalsController : ControllerBase
     [HttpGet]
     public IActionResult GetAnimals()
     {
-        SqlConnection connection = new SqlConnection(_configuration.GetConnectionString("Default"));
+        // Otwieramy połączenie
+        using SqlConnection connection = new SqlConnection(_configuration.GetConnectionString("Default"));
         connection.Open();
+        
         return Ok();
     }
 }
