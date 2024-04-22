@@ -2334,26 +2334,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\s27578\\.nuget\\packages\\": {}
+    "C:\\Users\\Maciek\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s27578\\RiderProjects\\Cwiczenia06\\Cwiczenia06\\Cwiczenia06.csproj",
+      "projectUniqueName": "E:\\Projekty\\APDB\\apdb20-cwiczenia6\\apdb20-cwiczenia06\\Cwiczenia06\\Cwiczenia06.csproj",
       "projectName": "Cwiczenia06",
-      "projectPath": "C:\\Users\\s27578\\RiderProjects\\Cwiczenia06\\Cwiczenia06\\Cwiczenia06.csproj",
-      "packagesPath": "C:\\Users\\s27578\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s27578\\RiderProjects\\Cwiczenia06\\Cwiczenia06\\obj\\",
+      "projectPath": "E:\\Projekty\\APDB\\apdb20-cwiczenia6\\apdb20-cwiczenia06\\Cwiczenia06\\Cwiczenia06.csproj",
+      "packagesPath": "C:\\Users\\Maciek\\.nuget\\packages\\",
+      "outputPath": "E:\\Projekty\\APDB\\apdb20-cwiczenia6\\apdb20-cwiczenia06\\Cwiczenia06\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\s27578\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Maciek\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2366,11 +2364,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -2409,7 +2402,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
