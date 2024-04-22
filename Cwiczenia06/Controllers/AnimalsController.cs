@@ -98,7 +98,7 @@ public class AnimalsController : ControllerBase
     }
     
     [HttpDelete("{idAnimal}")]
-    public IActionResult DeleteAnimal(int idAnimal, UpdateAnimal deleteAnimal)
+    public IActionResult DeleteAnimal(int idAnimal, DeleteAnimal deleteAnimal)
     {
         
         using SqlConnection connection = new SqlConnection(_configuration.GetConnectionString("Default"));
